@@ -1,0 +1,293 @@
+{
+  "Profesionales": [
+    {
+      "apellido": "GONZALEZ",
+      "codigo": "541000000083",
+      "fechaModificacion": "17/03/2015",
+      "fechaRegistro": "04/01/2011",
+      "matriculas": {
+        "matricula": [
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Salud Pública",
+                "establecimiento": "MEDICOS DISTRITO IV, Colegio de",
+                "fechaCertificacion": "14/04/1992",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Baja temporal",
+            "fechaMatricula": "09-05-2003 00:00",
+            "fechaModificacion": "18-12-2014",
+            "fechaRegistro": "09-10-2013",
+            "idOrigenEmite": "MEDICOS DISTRITO III, Colegio de",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40004"
+            ],
+            "observaciones": "INTERFACE 01-10-2013-id_sintys:2957494  UPD MAT 16-12-2014",
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          },
+          {
+            "estado": "Habilitado",
+            "fechaMatricula": "02-07-1981 00:00",
+            "fechaModificacion": "14-01-2015",
+            "fechaRegistro": "16-08-2012",
+            "jurisdiccion": "CABA",
+            "matricula": [
+              "50001"
+            ],
+            "profesion": "Médico",
+            "provincia": "CABA"
+          },
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Salud Pública",
+                "establecimiento": "MEDICOS DISTRITO IV, Colegio de",
+                "fechaCertificacion": "14/04/1992",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "26-06-1981 00:00",
+            "fechaModificacion": "22-07-2014",
+            "fechaRegistro": "29-05-2013",
+            "idOrigenEmite": "MEDICOS DISTRITO IV, Colegio de",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40004"
+            ],
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          }
+        ]
+      },
+      "nombre": "GONZALO ARIEL",
+      "numeroDocumento": "23444555",
+      "tipoDocumento": "DNI"
+    },
+    {
+      "apellido": "PEREZ",
+      "codigo": "541000000084",
+      "fechaModificacion": "22/06/2016",
+      "fechaRegistro": "12/03/2012",
+      "matriculas": {
+        "matricula": [
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Pediatría",
+                "establecimiento": "HOSPITAL INFANTIL",
+                "fechaCertificacion": "20/05/2005",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "10-04-2001 00:00",
+            "fechaModificacion": "14-11-2015",
+            "fechaRegistro": "20-08-2013",
+            "idOrigenEmite": "PED1, Ministerio de Salud",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40005"
+            ],
+            "observaciones": "INTERFACE 01-09-2013-id_sintys:2957454  UPD MAT 12-11-2015",
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          },
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Neurología",
+                "establecimiento": "HOSPITAL INFANTIL",
+                "fechaCertificacion": "20/05/2005",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "12-05-2001 00:00",
+            "fechaModificacion": "16-11-2015",
+            "fechaRegistro": "25-08-2013",
+            "idOrigenEmite": "PED2, Ministerio de Salud",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40005"
+            ],
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          }
+        ]
+      },
+      "nombre": "JUAN CARLOS",
+      "numeroDocumento": "34555666",
+      "tipoDocumento": "DNI"
+    },
+    {
+      "apellido": "LOPEZ",
+      "codigo": "541000000085",
+      "fechaModificacion": "10/02/2019",
+      "fechaRegistro": "15/07/2014",
+      "matriculas": {
+        "matricula": [
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Cardiología",
+                "establecimiento": "HOSPITAL CENTRAL",
+                "fechaCertificacion": "05/06/2010",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "20-08-2004 00:00",
+            "fechaModificacion": "22-01-2018",
+            "fechaRegistro": "10-10-2015",
+            "idOrigenEmite": "CARD, Ministerio de Salud",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40006"
+            ],
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          },
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Medicina Interna",
+                "establecimiento": "HOSPITAL CENTRAL",
+                "fechaCertificacion": "05/06/2010",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "25-08-2004 00:00",
+            "fechaModificacion": "28-01-2018",
+            "fechaRegistro": "15-10-2015",
+            "idOrigenEmite": "MEDINT, Ministerio de Salud",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40006"
+            ],
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          }
+        ]
+      },
+      "nombre": "MARIA EUGENIA",
+      "numeroDocumento": "45666777",
+      "tipoDocumento": "DNI"
+    },
+    {
+      "apellido": "RODRIGUEZ",
+      "codigo": "541000000086",
+      "fechaModificacion": "28/09/2020",
+      "fechaRegistro": "22/03/2016",
+      "matriculas": {
+        "matricula": [
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Oftalmología",
+                "establecimiento": "HOSPITAL OCULAR",
+                "fechaCertificacion": "10/08/2012",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "15-11-2006 00:00",
+            "fechaModificacion": "16-04-2019",
+            "fechaRegistro": "12-12-2016",
+            "idOrigenEmite": "OFT, Ministerio de Salud",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40007"
+            ],
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          },
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Cirugía Plástica",
+                "establecimiento": "HOSPITAL OCULAR",
+                "fechaCertificacion": "10/08/2012",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "20-11-2006 00:00",
+            "fechaModificacion": "22-04-2019",
+            "fechaRegistro": "18-12-2016",
+            "idOrigenEmite": "CIRPLAS, Ministerio de Salud",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40007"
+            ],
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          }
+        ]
+      },
+      "nombre": "CARLOS ALBERTO",
+      "numeroDocumento": "56777888",
+      "tipoDocumento": "DNI"
+    },
+    {
+      "apellido": "MARTINEZ",
+      "codigo": "541000000087",
+      "fechaModificacion": "15/05/2021",
+      "fechaRegistro": "30/11/2017",
+      "matriculas": {
+        "matricula": [
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Ginecología",
+                "establecimiento": "HOSPITAL DE LA MUJER",
+                "fechaCertificacion": "25/02/2014",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "10-03-2009 00:00",
+            "fechaModificacion": "18-08-2020",
+            "fechaRegistro": "25-01-2018",
+            "idOrigenEmite": "GINEC, Ministerio de Salud",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40008"
+            ],
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          },
+          {
+            "especialidades": {
+              "especialidad": {
+                "especialidad": "Obstetricia",
+                "establecimiento": "HOSPITAL DE LA MUJER",
+                "fechaCertificacion": "25/02/2014",
+                "tipoCertificacion": "Otros"
+              }
+            },
+            "estado": "Habilitado",
+            "fechaMatricula": "15-03-2009 00:00",
+            "fechaModificacion": "20-08-2020",
+            "fechaRegistro": "30-01-2018",
+            "idOrigenEmite": "OBST, Ministerio de Salud",
+            "jurisdiccion": "Buenos Aires",
+            "matricula": [
+              "40008"
+            ],
+            "profesion": "Médico",
+            "provincia": "Buenos Aires"
+          }
+        ]
+      },
+      "nombre": "ANA LAURA",
+      "numeroDocumento": "67888999",
+      "tipoDocumento": "DNI"
+    }
+  ]
+}
